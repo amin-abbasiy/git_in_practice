@@ -14,3 +14,7 @@
 	git clone URL --bare | --mirror | 
 	--depth #nubmer of revisions
 	--recurse-submodules #all the git submodules
+## PULL
+
+	git clone URL target_folder
+	git pull
