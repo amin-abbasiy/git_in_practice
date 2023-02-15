@@ -18,3 +18,4 @@
 
 	git clone URL target_folder
 	git pull
+	git pull --rebase #rebase instead of merege after fetch
