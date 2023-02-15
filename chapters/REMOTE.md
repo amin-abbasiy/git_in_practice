@@ -9,3 +9,7 @@
 	git push --all #push all branches and tags
 	git push --force #disable some checks in remote while pushing
 
+## PULL
+
+	git clone URL target_folder
+	git pull
