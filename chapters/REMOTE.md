@@ -18,3 +18,7 @@
 
 	git clone URL target_folder
 	git pull
+
+## FETCH
+
+	git fetch #fetch data without merging it
