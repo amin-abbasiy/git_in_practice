@@ -23,3 +23,13 @@
 ## FETCH
 
 	git fetch #fetch data without merging it
+
+## BRANCH
+
+Branching allows two independent tracks through history to be created and committed to without either modifying the other.
+In Git, a branch is no more than a pointer to a particular commit.
+
+
+## TAG
+
+Typically tags are used for annotating commits;
