@@ -9,3 +9,8 @@
 	git push --all #push all branches and tags
 	git push --force #disable some checks in remote while pushing
 
+## CLONE
+
+	git clone URL --bare | --mirror | 
+	--depth #nubmer of revisions
+	--recurse-submodules #all the git submodules
