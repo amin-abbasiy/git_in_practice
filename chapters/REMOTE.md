@@ -29,7 +29,18 @@
 Branching allows two independent tracks through history to be created and committed to without either modifying the other.
 In Git, a branch is no more than a pointer to a particular commit.
 
+	git branch <branch-name> master #create branch base on master branch
+	git checkout <branch-name> #check out content of current branch to this branch, files states will be change to what this branch points 
 
 ## TAG
 
 Typically tags are used for annotating commits;
+
+
+## CHECKOUT
+
+check out to new branch and change state of HEAD pointer
+
+	git checkout --force #this will overrite uncommited changes
+	git stash #save changes temporarialy
+
